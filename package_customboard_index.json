@@ -1,0 +1,38 @@
+{
+    "packages": [
+
+        {
+            "name": "AIRLab",
+            "maintainer": "AIRLab",
+            "websiteURL": "http://www.airlabkorea.com",
+            "email": "airlabkorea@gmail.com",
+
+            "platforms": [
+
+                {
+                    "name": "AIRLab Custom Board (AVR)",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.airlabkorea.com"
+                    },
+                    "url": "https://github.com/airlabkorea/Arduino/raw/master/boards/airlab_customboard_v1.0.0.zip",
+                    "archiveFileName": "airlab_customboard_v1.0.0.zip",
+                    "checksum": "SHA-256:ccb23d6583438e1651fd72e4e6a1aec20f005fb0630845fc4c6589aca4ee920c",
+                    "size": "3458",
+                    "boards": [
+                        {"name": "CustomBoard"}
+                    ],
+                    "toolsDependencies": []
+                }
+
+            ],
+
+            "tools": [
+
+            ]
+        }
+
+    ]
+}
